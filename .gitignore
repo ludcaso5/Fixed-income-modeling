@@ -3,3 +3,21 @@
 __pycache__/
 *.pyc
 .env
+.ipynb_checkpoints/
+
+# Licensed WRDS / Compustat / CRSP data
+q1_1data_raw.csv
+q1_2crsp_raw.csv
+jnj_crsp_*.csv
+jnj_q1_compustat_*.csv
+
+# Generated files
+cleaned_q1_daily_L.csv
+q3_*.csv
+q4_*.csv
+q5_*.csv
+
+# Downloaded Federal Reserve data
+fed_nominal_yield_curve.csv
+feds200628.csv
+THREEFY1.csv
