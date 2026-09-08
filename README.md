@@ -20,7 +20,7 @@ Main components include:
 
 ## Repository
 
-- `notebooks/fixed_income_credit_risk_and_callable_bond.ipynb` — complete analysis, numerical implementation, results, and figures
+- `notebook/fixed_income_credit_risk_and_callable_bond.ipynb` — complete analysis, numerical implementation, results, and figures
 - `data/README.md` — information on data sources and availability
 
 ## Technologies
